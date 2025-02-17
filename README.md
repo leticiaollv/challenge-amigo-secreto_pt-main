@@ -1,0 +1,3 @@
+Este projeto é uma aplicação simples de sorteio de "Amigo Secreto", onde os usuários podem adicionar amigos, sortear os pares e visualizar o resultado. O sorteio é feito aleatoriamente, e a lista de amigos é exibida dinamicamente na interface.
+Suas funcionalidades são: Adicionar amigos a lista, sortear amigos de maneira aleatória, exibir o resultado do sorteio, validar se o nome não está vazio e evitar duplicações, mostrar alerta quando não houver amigos suficientes para o sorteio.
+Tecnologias utilizadas: HTML (para estruturar a interface), CSS (para estilizar a página e tornar a interface mais amigável), JavaScript (para implementar a lógica de sorteio e interatividade).
